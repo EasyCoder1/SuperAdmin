@@ -1,0 +1,13 @@
+<resources>\
+    <string-array name="Branches">
+        <item>Thika</item>
+        <item>Maua</item>
+        <item>Meru</item>
+        <item>Naivasha</item>
+        <item>Nakuru</item>
+        <item>Engineer</item>
+        <item>Narok</item>
+    </string-array>
+
+    <string name="app_name">SuperAdmin</string>
+</resources>
